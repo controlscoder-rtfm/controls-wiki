@@ -1,5 +1,3 @@
-const { withContentlayer } = require('next-contentlayer');
+const { withContentlayer } = require('contentlayer/utils');
 
-module.exports = withContentlayer({
-  reactStrictMode: true,
-});
+module.exports = withContentlayer({});
