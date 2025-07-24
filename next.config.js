@@ -1,3 +1,3 @@
-const { withContentlayer } = require('contentlayer/utils');
+const { withContentlayer } = require('contentlayer/build/utils');
 
 module.exports = withContentlayer({});
