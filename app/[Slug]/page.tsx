@@ -1,4 +1,4 @@
-import { allPages } from 'contentlayer/generated';
+import { allPages } from '.contentlayer/generated';
 import { notFound } from 'next/navigation';
 import { useMDXComponent } from 'next-contentlayer/hooks';
 
