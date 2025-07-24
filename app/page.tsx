@@ -1,4 +1,4 @@
-import { allPages } from 'contentlayer/generated';
+import { allPages } from '.contentlayer/generated';
 
 export default function Home() {
   const page = allPages.find((p) => p.slug === '/index');
