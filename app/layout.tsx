@@ -1,7 +1,7 @@
 'use client';
 
 import '../globals.css';
-import { allPages } from 'contentlayer/generated';
+import { allPages } from '.contentlayer/generated';
 import { useEffect, useState } from 'react';
 
 export default function RootLayout({ children }) {
