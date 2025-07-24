@@ -1,0 +1,21 @@
+{
+  "name": "controls-wiki",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "contentlayer": "^0.x",
+    "next-contentlayer": "^0.x"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.x",
+    "postcss": "^8.x",
+    "autoprefixer": "^10.x"
+  }
+}
